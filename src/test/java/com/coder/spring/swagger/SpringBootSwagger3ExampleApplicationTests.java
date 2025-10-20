@@ -8,6 +8,7 @@ class SpringBootSwagger3ExampleApplicationTests {
 
 	@Test
 	void contextLoads() {
+        //TODO should do add some unit tests
 	}
 
 }

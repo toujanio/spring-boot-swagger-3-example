@@ -1,4 +1,4 @@
-package com.bezkoder.spring.swagger;
+package com.coder.spring.swagger;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

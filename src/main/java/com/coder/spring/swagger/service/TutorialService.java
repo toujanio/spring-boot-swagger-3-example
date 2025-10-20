@@ -1,11 +1,11 @@
-package com.bezkoder.spring.swagger.service;
+package com.coder.spring.swagger.service;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.bezkoder.spring.swagger.model.Tutorial;
+import com.coder.spring.swagger.model.Tutorial;
 
 @Service
 public class TutorialService {
